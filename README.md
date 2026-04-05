@@ -1,9 +1,5 @@
 ### Hi there, i'm Roman 👋
 
-[![GH code stats](https://github-readme-stats.vercel.app/api/top-langs/?username=romanzaycev&layout=compact&langs_count=8)](https://github.com/romanzaycev)
-
-<sub>_^ NOTE: Most Used Languages does not indicate my skill level in languages; it's a GitHub metric to determine which languages have the most code on GitHub._</sub>
-
 <!--
 **romanzaycev/romanzaycev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
